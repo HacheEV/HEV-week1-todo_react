@@ -1,0 +1,30 @@
+{
+    "tasks" : [
+        {"done":true, "title":"Estudiar React", "who":"Paco", "imageUrl":"/img/duda.png"},
+        {"done":true, "title":"Repaso clase Guillermo", "who":"Marta", "imageUrl":"/img/lengua.png"},
+        {"done":true, "title":"Clase Js", "who":"Sergi", "imageUrl":"/img/pasivo.png"},
+        {"done":false, "title":"Running", "who":"Hector", "imageUrl":"/img/sonrisa.png"},
+        {"done":false, "title":"Bloque CodeAcademy", "who":"Hector"},
+        {"done":false, "title":"Item 6"},
+        {"done":true, "title":"Item 7"},
+        {"done":false, "title":"Item 8"},
+        {"done":true, "title":"Item 9"},
+        {"done":false, "title":"Item 10"},
+        {"done":true, "title":"Item 11"},
+        {"done":true, "title":"Item 12"},
+        {"done":true, "title":"Item 13"},
+        {"done":false, "title":"Item 14"},
+        {"done":false, "title":"Item 15"},
+        {"done":true, "title":"Item 16"},
+        {"done":true, "title":"Item 17"},
+        {"done":true, "title":"Item 18"},
+        {"done":false, "title":"Item 19"},
+        {"done":false, "title":"Item 20"},
+        {"done":false, "title":"Item 21"},
+        {"done":false, "title":"Item 22"},
+        {"done":false, "title":"Item 23"},
+        {"done":false, "title":"Item 24"},
+        {"done":false, "title":"Item 25"}
+
+    ]
+}
